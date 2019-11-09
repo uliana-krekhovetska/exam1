@@ -1,0 +1,11 @@
+{
+  "name": "lesson-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "sass scss/main.scss:styles/main.css --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
